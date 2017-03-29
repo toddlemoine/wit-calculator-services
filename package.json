@@ -1,0 +1,19 @@
+{
+  "name": "wit-calculator-services",
+  "version": "1.0.0",
+  "description": "Simple Express server providing add, substract, multiply, and divide functions as services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddlemoine/wit-calculator-services.git"
+  },
+  "author": "Todd Lemoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddlemoine/wit-calculator-services/issues"
+  },
+  "homepage": "https://github.com/toddlemoine/wit-calculator-services#readme"
+}

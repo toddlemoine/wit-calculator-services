@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/toddlemoine/wit-calculator-services/issues"
   },
-  "homepage": "https://github.com/toddlemoine/wit-calculator-services#readme"
+  "homepage": "https://github.com/toddlemoine/wit-calculator-services#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "bin": {
+    "calc-services-start": "bin/start.js"
+  }
 }
